@@ -1,0 +1,19 @@
+body {
+  background: white;
+  text-align-last: center
+}
+p {
+  color: black;
+  font-family: 'Noto Sans TC', sans-serif;
+  text-align: center
+}
+h1 {
+  font-weight: lighter;
+  font-family: 'Lato', sans-serif;
+  text-align: center
+}
+h2 {
+  font-weight: lighter;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center
+}
